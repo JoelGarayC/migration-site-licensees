@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo el registro de los usuarios.
+Este proyecto tiene como objetivo el registro de los usuarios mediante el uso de las apis de site-licensee
 
 formato para la subida de los datos de los licenciatarios es el siguiente:
 
